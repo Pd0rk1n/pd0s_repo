@@ -6,7 +6,7 @@ echo "🔑 Setting up all required repositories and keys..."
 
 ### --- [1] Arch Mirrors Update (Optional) ---
 echo "🌀 Updating Arch Linux mirrorlist..."
-reflector --country 'Canada' --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+reflector --country 'Canada' --protocol https --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
 
 ### --- [2] Chaotic-AUR Setup ---
 if ! pacman -Qi chaotic-keyring &>/dev/null; then

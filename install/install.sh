@@ -5,7 +5,7 @@ echo -e "\n🚀 Starting Full Post-Install Setup for Arch + Chaotic-AUR + Nemesi
 
 ### === [1] Update Arch Mirrors ===
 echo -e "\n🌀 Updating Arch Linux mirrorlist..."
-reflector --country 'Canada' --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
+reflector --country 'Canada' --protocol https --latest 10 --sort rate --save /etc/pacman.d/mirrorlist
 
 ### === [2] Setup Chaotic-AUR ===
 echo -e "\n📦 Adding Chaotic-AUR repository..."
