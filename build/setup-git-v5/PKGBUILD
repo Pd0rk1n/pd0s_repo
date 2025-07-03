@@ -1,0 +1,14 @@
+# PKGBUILD
+pkgname=setup-git
+pkgver=1.0
+pkgrel=1
+arch=('any')
+pkgdesc="setup-git-v5"
+license=('custom')
+depends=()
+source=('setup-git-v5.sh')
+md5sums=('SKIP')
+
+package() {
+  install -Dm755 "$srcdir/setup-git-v5.sh" "$pkgdir/setup-git-v5.sh"
+}

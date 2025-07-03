@@ -1,0 +1,14 @@
+# PKGBUILD
+pkgname=clean-efi-entries
+pkgver=1.0
+pkgrel=1
+arch=('any')
+pkgdesc="clean-efi-entries"
+license=('custom')
+depends=()
+source=('clean-efi-entries.sh')
+md5sums=('SKIP')
+
+package() {
+  install -Dm755 "$srcdir/clean-efi-entries.sh" "$pkgdir/usr/bin/clean-efi-entries.sh"
+}

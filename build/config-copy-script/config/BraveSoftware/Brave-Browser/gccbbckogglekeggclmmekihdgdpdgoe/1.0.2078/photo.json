@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "fd259c45-50a7-45e3-810f-e66d77ae2433",
+      "logo": {
+        "imageUrl": "86a73487-681e-4b7d-bf27-2d7c13c1684b/e053d057-db3b-4d9f-8f20-a536c8101400.png",
+        "destinationUrl": "https://brave.com/podcast/e77/",
+        "alt": "The Brave Technologist Podcast - Episode 77 - The Role of AI in Electric Vehicle Charging - Listen Now",
+        "companyName": "The Brave Technologist Podcast"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "86a73487-681e-4b7d-bf27-2d7c13c1684b/3f143ca7-d76b-489a-9703-e6277905b7ca.jpg",
+          "creativeInstanceId": "9957bbef-eecb-4dcc-8543-75ce89e5db64",
+          "focalPoint": {
+            "x": 1300,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "b490f96c-aa22-4f43-8cdd-18c102ad892b/be752110-bacf-4425-add6-ff79a8d131fa.jpg",
+          "creativeInstanceId": "ed35c5ad-751e-4a5f-87f9-ee98464ba3dc",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "b490f96c-aa22-4f43-8cdd-18c102ad892b/e053d057-db3b-4d9f-8f20-a536c8101400.png",
+            "destinationUrl": "https://brave.com/podcast/e77/",
+            "alt": "The Brave Technologist Podcast - Episode 77 - The Role of AI in Electric Vehicle Charging - Listen Now",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        },
+        {
+          "imageUrl": "efcec5ef-d13e-4faf-a95d-895bd74f2a21/79245482-8d1f-4b28-b5a8-a68c1b2bb598.jpg",
+          "creativeInstanceId": "7ea6bbe4-d6fc-4c61-a02e-f59a8454829c",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "efcec5ef-d13e-4faf-a95d-895bd74f2a21/e053d057-db3b-4d9f-8f20-a536c8101400.png",
+            "destinationUrl": "https://brave.com/podcast/e77/",
+            "alt": "The Brave Technologist Podcast - Episode 77 - The Role of AI in Electric Vehicle Charging - Listen Now",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "fd259c45-50a7-45e3-810f-e66d77ae2433",
+      "logo": {
+        "imageUrl": "86a73487-681e-4b7d-bf27-2d7c13c1684b/e053d057-db3b-4d9f-8f20-a536c8101400.png",
+        "destinationUrl": "https://brave.com/podcast/e77/",
+        "alt": "The Brave Technologist Podcast - Episode 77 - The Role of AI in Electric Vehicle Charging - Listen Now",
+        "companyName": "The Brave Technologist Podcast"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "86a73487-681e-4b7d-bf27-2d7c13c1684b/3f143ca7-d76b-489a-9703-e6277905b7ca.jpg",
+          "creativeInstanceId": "9957bbef-eecb-4dcc-8543-75ce89e5db64",
+          "focalPoint": {
+            "x": 1300,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "b490f96c-aa22-4f43-8cdd-18c102ad892b/be752110-bacf-4425-add6-ff79a8d131fa.jpg",
+          "creativeInstanceId": "ed35c5ad-751e-4a5f-87f9-ee98464ba3dc",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "b490f96c-aa22-4f43-8cdd-18c102ad892b/e053d057-db3b-4d9f-8f20-a536c8101400.png",
+            "destinationUrl": "https://brave.com/podcast/e77/",
+            "alt": "The Brave Technologist Podcast - Episode 77 - The Role of AI in Electric Vehicle Charging - Listen Now",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        },
+        {
+          "imageUrl": "efcec5ef-d13e-4faf-a95d-895bd74f2a21/79245482-8d1f-4b28-b5a8-a68c1b2bb598.jpg",
+          "creativeInstanceId": "7ea6bbe4-d6fc-4c61-a02e-f59a8454829c",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "efcec5ef-d13e-4faf-a95d-895bd74f2a21/e053d057-db3b-4d9f-8f20-a536c8101400.png",
+            "destinationUrl": "https://brave.com/podcast/e77/",
+            "alt": "The Brave Technologist Podcast - Episode 77 - The Role of AI in Electric Vehicle Charging - Listen Now",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        }
+      ]
+    }
+  ]
+}

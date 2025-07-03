@@ -1,0 +1,81 @@
+2025/07/02-21:54:53.637 122fb Reusing MANIFEST /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2025/07/02-21:54:53.640 122fb Recovering log #6506
+2025/07/02-21:54:53.640 122fb Reusing old log /home/pd0rk1n/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/006506.log 
+2025/07/02-21:54:59.246 122ee Level-0 table #6510: started
+2025/07/02-21:54:59.267 122ee Level-0 table #6510: 4682726 bytes OK
+2025/07/02-21:54:59.270 122ee Delete type=0 #6506
+2025/07/02-21:55:03.768 122ee Level-0 table #6512: started
+2025/07/02-21:55:03.795 122ee Level-0 table #6512: 4243561 bytes OK
+2025/07/02-21:55:03.797 122ee Delete type=0 #6509
+2025/07/02-21:55:03.798 122ed Compacting 4@0 + 4@1 files
+2025/07/02-21:55:03.814 122ed Generated table #6513@0: 9 keys, 2629443 bytes
+2025/07/02-21:55:03.829 122ed Generated table #6514@0: 4 keys, 2353894 bytes
+2025/07/02-21:55:03.848 122ed Generated table #6515@0: 6 keys, 2553399 bytes
+2025/07/02-21:55:03.851 122ed Generated table #6516@0: 1 keys, 149 bytes
+2025/07/02-21:55:03.866 122ed Generated table #6517@0: 11 keys, 1396100 bytes
+2025/07/02-21:55:03.866 122ed Compacted 4@0 + 4@1 files => 8932985 bytes
+2025/07/02-21:55:03.868 122ed compacted to: files[ 0 5 9 0 0 0 0 ]
+2025/07/02-21:55:03.869 122ed Delete type=2 #6500
+2025/07/02-21:55:03.869 122ed Delete type=2 #6505
+2025/07/02-21:55:03.869 122ed Delete type=2 #6503
+2025/07/02-21:55:03.869 122ed Delete type=2 #6501
+2025/07/02-21:55:03.869 122ed Delete type=2 #6512
+2025/07/02-21:55:03.869 122ed Delete type=2 #6510
+2025/07/02-21:55:03.869 122ed Delete type=2 #6502
+2025/07/02-21:55:03.869 122ed Delete type=2 #6507
+2025/07/02-21:55:06.825 122ed Level-0 table #6519: started
+2025/07/02-21:55:06.839 122ed Level-0 table #6519: 4427725 bytes OK
+2025/07/02-21:55:06.842 122ed Delete type=0 #6511
+2025/07/02-21:56:04.327 122ed Level-0 table #6521: started
+2025/07/02-21:56:04.361 122ed Level-0 table #6521: 6164921 bytes OK
+2025/07/02-21:56:04.364 122ed Delete type=0 #6518
+2025/07/02-21:56:08.251 122ee Level-0 table #6523: started
+2025/07/02-21:56:08.287 122ee Level-0 table #6523: 7836769 bytes OK
+2025/07/02-21:56:08.289 122ee Delete type=0 #6520
+2025/07/02-22:55:11.241 122ee Level-0 table #6525: started
+2025/07/02-22:55:11.259 122ee Level-0 table #6525: 4437242 bytes OK
+2025/07/02-22:55:11.261 122ee Delete type=0 #6522
+2025/07/02-22:55:11.262 122ee Compacting 4@0 + 5@1 files
+2025/07/02-22:55:11.273 122ee Generated table #6526@0: 7 keys, 2554746 bytes
+2025/07/02-22:55:11.284 122ee Generated table #6527@0: 5 keys, 2367603 bytes
+2025/07/02-22:55:11.294 122ee Generated table #6528@0: 3 keys, 2134965 bytes
+2025/07/02-22:55:11.305 122ee Generated table #6529@0: 5 keys, 2402538 bytes
+2025/07/02-22:55:11.320 122ee Generated table #6530@0: 6 keys, 2553894 bytes
+2025/07/02-22:55:11.325 122ee Generated table #6531@0: 2 keys, 46678 bytes
+2025/07/02-22:55:11.337 122ee Generated table #6532@0: 11 keys, 1396611 bytes
+2025/07/02-22:55:11.337 122ee Compacted 4@0 + 5@1 files => 13457035 bytes
+2025/07/02-22:55:11.340 122ee compacted to: files[ 0 7 9 0 0 0 0 ]
+2025/07/02-22:55:11.340 122ee Delete type=2 #6517
+2025/07/02-22:55:11.340 122ee Delete type=2 #6516
+2025/07/02-22:55:11.340 122ee Delete type=2 #6514
+2025/07/02-22:55:11.340 122ee Delete type=2 #6513
+2025/07/02-22:55:11.341 122ee Delete type=2 #6515
+2025/07/02-22:55:11.341 122ee Delete type=2 #6521
+2025/07/02-22:55:11.341 122ee Delete type=2 #6523
+2025/07/02-22:55:11.341 122ee Delete type=2 #6525
+2025/07/02-22:55:11.341 122ee Delete type=2 #6519
+2025/07/02-22:55:11.346 122ee Compacting 1@1 + 1@2 files
+2025/07/02-22:55:11.359 122ee Generated table #6533@1: 7 keys, 1561423 bytes
+2025/07/02-22:55:11.359 122ee Compacted 1@1 + 1@2 files => 1561423 bytes
+2025/07/02-22:55:11.361 122ee compacted to: files[ 0 6 9 0 0 0 0 ]
+2025/07/02-22:55:11.361 122ee Delete type=2 #6531
+2025/07/02-22:55:11.361 122ee Delete type=2 #6435
+2025/07/02-22:55:11.362 122ee Compacting 1@1 + 2@2 files
+2025/07/02-22:55:11.376 122ee Generated table #6534@1: 20 keys, 1737960 bytes
+2025/07/02-22:55:11.376 122ee Compacted 1@1 + 2@2 files => 1737960 bytes
+2025/07/02-22:55:11.379 122ee compacted to: files[ 0 5 8 0 0 0 0 ]
+2025/07/02-22:55:11.379 122ee Delete type=2 #6449
+2025/07/02-22:55:11.379 122ee Delete type=2 #6532
+2025/07/02-22:55:11.379 122ee Delete type=2 #6450
+2025/07/02-22:55:11.380 122ee Compacting 1@1 + 1@2 files
+2025/07/02-22:55:11.394 122ee Generated table #6535@1: 8 keys, 2563819 bytes
+2025/07/02-22:55:11.394 122ee Compacted 1@1 + 1@2 files => 2563819 bytes
+2025/07/02-22:55:11.397 122ee compacted to: files[ 0 4 8 0 0 0 0 ]
+2025/07/02-22:55:11.397 122ee Delete type=2 #6526
+2025/07/02-22:55:11.397 122ee Delete type=2 #6451
+2025/07/02-22:56:05.871 122ef Level-0 table #6537: started
+2025/07/02-22:56:05.914 122ef Level-0 table #6537: 7438694 bytes OK
+2025/07/02-22:56:05.917 122ef Delete type=0 #6524
+2025/07/02-22:56:09.659 122ef Level-0 table #6539: started
+2025/07/02-22:56:09.706 122ef Level-0 table #6539: 6311410 bytes OK
+2025/07/02-22:56:09.708 122ef Delete type=0 #6536

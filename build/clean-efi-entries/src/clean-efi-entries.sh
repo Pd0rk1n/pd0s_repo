@@ -1,0 +1,1 @@
+/home/pd0rk1n/Build/clean-efi-entries.sh

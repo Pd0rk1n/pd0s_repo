@@ -1,0 +1,1 @@
+/home/pd0rk1n/Build/setup_ufw_transmission_plex/setup_ufw_transmission_plex.sh

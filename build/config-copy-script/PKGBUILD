@@ -1,0 +1,15 @@
+pkgname=config-copy-script
+pkgver=1.0
+pkgrel=1
+pkgdesc="Script to copy config folder to /home/pd0rk1n"
+arch=('any')
+license=('custom')
+depends=()
+source=('install-config.sh' 'config')
+md5sums=('SKIP' 'SKIP')
+
+package() {
+  install -Dm755 "$srcdir/install-config.sh" "$pkgdir/usr/bin/install-config.sh"
+  install -d "$pkgdir/usr/share/config-copy-script"
+  cp -rT "$srcdir/config" "$pkgdir/usr/share/config-copy-script/config"
+}

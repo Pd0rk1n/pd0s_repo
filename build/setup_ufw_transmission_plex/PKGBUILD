@@ -1,0 +1,14 @@
+# PKGBUILD
+pkgname=setup-ufw-transmission-plex
+pkgver=1.0
+pkgrel=1
+arch=('any')
+pkgdesc="setup_ufw_transmission_plex"
+license=('custom')
+depends=()
+source=('setup_ufw_transmission_plex.sh')
+md5sums=('SKIP')
+
+package() {
+  install -Dm755 "$srcdir/setup_ufw_transmission_plex.sh" "$pkgdir/usr/bin/setup_ufw_transmission_plex.sh"
+}
